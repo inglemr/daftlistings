@@ -17,7 +17,7 @@ class SearchType(enum.Enum):
     COMMERCIAL_RENT = "commercial-for-rent"
     SHARING = "sharing"
     STUDENT_ACCOMMODATION = "student-accommodation-to-share"
-    NEW_HOMES = "new-homes"
+    NEW_HOMES = "new-homes-for-sale"
 
 
 class PropertyType(enum.Enum):
